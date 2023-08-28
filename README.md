@@ -6,7 +6,7 @@ Author: Ryo Kobayashi
 
 <br/>
 
-*NOTE: For the complete report, please refer to the ["Report.ipynb"](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/blob/main/Report.ipynb) above.*
+*NOTE: For the complete report, please refer to the [Report.ipynb](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/blob/main/Report.ipynb) above.*
 
 <br/>
 
