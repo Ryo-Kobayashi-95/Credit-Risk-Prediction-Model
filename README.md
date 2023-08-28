@@ -4,7 +4,9 @@ Published: Jun 3, 2023
 
 Author: Ryo Kobayashi
 
-NOTE: For the complete report, please refer to the provided "Report.ipynb" above.
+<br/>
+
+*NOTE: For the complete report, please refer to the "Report.ipynb" above.*
 
 <br/>
 
