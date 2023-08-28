@@ -24,7 +24,24 @@ Driven by my academic journey and passion for finance, I'm motivated to uncover 
 ## *Stages in Model Creation:*
 1. **Data Splitting:** The dataset was divided into a 70% training set and a 30% testing set.
 2. **Preliminary Exploratory Data Analysis (EDA):** The data structure was uncovered, necessitating preprocessing before constructing machine-learning models.
-3. **Metric Choice:** The test f1 score, derived from EDA, was selected as the most suitable evaluation metric for the project.
-4. **Model Building:** Various linear and non-linear models (e.g., LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, and SVC) were constructed, and hyperparameters were tuned to maximize the test f1 score.
-5. **Model Selection:** Considering the test f1 score and fitting time, LogisticRegression was identified as the optimal model, subsequently deployed on the test set.
-6. **SHAP Analysis:** SHAP force plots were utilized to unveil influential factors driving model outcomes.
+
+### Histogram
+![image](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/assets/115038173/b30f2586-3b8c-4508-be59-3eb67125dd62)
+
+### Barplot
+![image](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/assets/115038173/1eb3a147-92a5-4472-8899-7c48dad01617)
+
+4. **Metric Choice:** The test f1 score, derived from EDA, was selected as the most suitable evaluation metric for the project.
+5. **Model Building:** Various linear and non-linear models (e.g., LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, and SVC) were constructed, and hyperparameters were tuned to maximize the test f1 score.
+6. **Model Selection:** Considering the test f1 score and fitting time, LogisticRegression was identified as the optimal model, subsequently deployed on the test set.
+
+#### Best model performance
+![image](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/assets/115038173/2fa081a4-38a5-4f61-9818-f2a14ce2cc0a)
+
+8. **SHAP Analysis:** SHAP force plots were utilized to unveil influential factors driving model outcomes.
+
+#### SHAP Force Plot
+![image](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/assets/115038173/41c52930-d79e-43b5-9706-e6d79e8035c4)
+
+## *Source*
+Dataset retrieved from: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
