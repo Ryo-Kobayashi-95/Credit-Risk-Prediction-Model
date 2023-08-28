@@ -25,10 +25,10 @@ Driven by my academic journey and passion for finance, I'm motivated to uncover 
 1. **Data Splitting:** The dataset was divided into a 70% training set and a 30% testing set.
 2. **Preliminary Exploratory Data Analysis (EDA):** The data structure was uncovered, necessitating preprocessing before constructing machine-learning models.
 
-### Histogram
+#### Histogram
 ![image](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/assets/115038173/b30f2586-3b8c-4508-be59-3eb67125dd62)
 
-### Barplot
+#### Barplot
 ![image](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/assets/115038173/1eb3a147-92a5-4472-8899-7c48dad01617)
 
 4. **Metric Choice:** The test f1 score, derived from EDA, was selected as the most suitable evaluation metric for the project.
