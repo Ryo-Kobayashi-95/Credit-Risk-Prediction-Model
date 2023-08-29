@@ -6,7 +6,13 @@ Author: Ryo Kobayashi
 
 <br/>
 
-*NOTE: For the complete report, please refer to the [Report.ipynb](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/blob/main/Report.ipynb) above.*
+This project employs:
+- Language: Python
+- Platform: Jupyter Notebook
+
+<br/>
+
+<ins>*NOTE: For the complete report, please refer to the [Report.ipynb](https://github.com/Ryo-Kobayashi-95/Credit-Risk-Prediction-Model/blob/main/Report.ipynb) above.*</ins>
 
 <br/>
 
