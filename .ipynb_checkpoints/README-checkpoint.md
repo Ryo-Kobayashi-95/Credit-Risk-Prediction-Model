@@ -21,9 +21,7 @@ In the dynamic and ever-evolving world of finance, precision in risk assessment 
 
 At the core of this report is a detailed dataset collected from Taiwan. This dataset includes a variety of information, ranging from demographics to payment history and credit data. Combining these different factors creates a strong foundation for the model's predictions.
 
-The report delves into the inner workings of this predictive model, explaining how the model processes historical trends and various information to enhance its performance in assessing risk and understanding credit behavior.
-
-As the report goes deeper, it uncovers the complexities of credit default risk. It illustrates how the model utilizes different types of data to make better predictions. This report not only demonstrates how machine learning is used in finance but also reveals the interconnection of data, analysis, and financial choices.
+The report delves into the inner mechanisms of this predictive model, detailing the model selection process and explaining how it processes historical trends and diverse information to improve its ability to assess risk and comprehend credit behavior.
 
 ## *Target Audience:*
 This project is tailored to individuals curious about the interplay between machine learning and finance. Whether you're an aspiring data scientist, an innovative financial analyst, or a researcher at the crossroads of technology and finance, this project provides valuable insights. *It's important to note that while the project provides valuable insights, its practical application is not advisable due to its experimental nature*.
