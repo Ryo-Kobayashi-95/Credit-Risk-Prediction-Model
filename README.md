@@ -27,7 +27,7 @@ The report delves into the inner mechanisms of this predictive model, detailing 
 This project is tailored to individuals curious about the interplay between machine learning and finance. Whether you're an aspiring data scientist, an innovative financial analyst, or a researcher at the crossroads of technology and finance, this project provides valuable insights. *It's important to note that while the project provides valuable insights, its practical application is not advisable due to its experimental nature*.
 
 ## *Project Motivation:*
-Driven by my academic journey and passion for finance, I'm motivated to uncover the latent power of risk assessment in shaping informed financial decisions. This project acts as a guiding light, showcasing how machine learning can transform risk management. Going beyond theoretical knowledge, it offers a holistic grasp of real-world applications, bridging the gap between theory and practice, and enabling the utilization of data-driven insights in the complex realm of finance.
+Driven by my academic journey and passion for finance, I have been motivated to apply a machine-learning model in the finance domain to better assess the risk and shape informed decisions. This project acts as a guiding light, showcasing how machine learning can transform risk management. Going beyond theoretical knowledge, it offers a holistic grasp of real-world applications, bridging the gap between theory and practice, and enabling the utilization of data-driven insights in the complex realm of finance.
 
 ## *Stages in Model Creation:*
 
@@ -57,7 +57,7 @@ Driven by my academic journey and passion for finance, I'm motivated to uncover 
 
 ### 4. Model Deployment and Results:
 - The selected LogisticRegression model was deployed on the test data.
-- The model achieved an f1 score of 0.46.
+- The model achieved a test f1 score of 0.46.
 
 ### 5. SHAP Analysis:
 - SHAP analysis was conducted to interpret the model's predictions. 
